@@ -11,7 +11,7 @@ I'm Ramzi Mahnoune a software engineering master's degree student and a web deve
 - 🔭 I’m a web developer, currently following a software engineering master's degree at @USTHB
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m currently looking for a job or an internship so i can use and improve my skills.
-- 📫 reach me at: ramzimahnoune@gmail.com.
+- 📫 Reach me at: ramzimahnoune@gmail.com.
 - ⚡ I love sharing random travel videos and pics.
 
 #### Top Technologies
