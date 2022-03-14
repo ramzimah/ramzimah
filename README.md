@@ -1,6 +1,6 @@
 ## Hi I'm Ramzi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Ramzi Mahnoune a software engineering master's degree student and a web developer. I tend more into backend developement and I mostly work with Node.js (Express.js), I'm open to any kind of opportunities and challenges.
+I'm Ramzi Mahnoune a software engineering master's degree student and a developer. I mostly work with Node.js (Express.js), I'm open to any kind of opportunities and challenges.
 
 :mailbox: Reach me out!
 
@@ -8,9 +8,8 @@ I'm Ramzi Mahnoune a software engineering master's degree student and a web deve
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m a web developer, currently following a software engineering master's degree at @USTHB
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m currently looking for a job or an internship so i can use and improve my skills.
+- 🔭 I’m a backend developer developer, currently following a software engineering master's degree at @USTHB
+- 🤔 I’m currently looking for a job or an internship as a junior backend developer so i can use and improve my skills.
 - 📫 Reach me at: ramzimahnoune@gmail.com.
 - ⚡ I love sharing random travel videos and pics.
 
