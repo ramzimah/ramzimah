@@ -1,6 +1,8 @@
 ## Hi I'm Ramzi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Ramzi Mahnoune a software engineering master's degree student and a backend developer. I mostly work with Node.js (Express.js), I'm open to any kind of opportunities and challenges.
+I'm Ramzi Mahnoune, Backend Developer with 2 years of experience. Passionate about building clean, maintainable web APIs and dedicated to continuous learning. I bring expertise in JavaScript, TypeScript, and a strong backend tech stack including Node.js, Express.js, NestJS, MongoDB, MySQL.
+
+🛠️ Skills: TypeScript, Node.js, Express.js, NestJS, MongoDB, MySQL, Sequelize ORM, Jest, Redis, Docker, Swagger, React, Next.js.
 
 :mailbox: Reach me out!
 
@@ -8,8 +10,7 @@ I'm Ramzi Mahnoune a software engineering master's degree student and a backend 
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m a backend developer, currently following a software engineering master's degree at @USTHB
-- 🤔 I’m currently looking for a job or an internship as a junior backend developer so i can use and improve my skills.
+- 🤔 I’m currently looking for a new remote job as a backend software engineer.
 - 📫 Reach me at: ramzimahnoune@gmail.com.
 
 #### Top Technologies
